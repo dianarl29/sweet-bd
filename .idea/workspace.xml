@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00475a21-2cb4-4e11-b465-151d06dbf0a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/SweetApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/controllers/ContactoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/controllers/ParentescoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ContactoDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ContactoDAOImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ParentescoDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ParentescoDAOImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/models/Contacto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/models/Parentesco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/models/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/contacto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/editar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/imagen/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/inicio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/agregarContacto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/contacto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/editar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/parentesco.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/src/test/java/com/sweetmemories/sweet/SweetApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet/sweet.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="00475a21-2cb4-4e11-b465-151d06dbf0a5" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653576904598</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1654823487456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654823487456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -115,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
