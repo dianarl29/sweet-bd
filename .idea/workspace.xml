@@ -4,11 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6239d4b5-1ce1-4c25-87e3-caab75f7271a" name="Changes" comment="" />
+    <list default="true" id="00475a21-2cb4-4e11-b465-151d06dbf0a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/SweetApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/controllers/ContactoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/controllers/ParentescoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ContactoDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ContactoDAOImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ParentescoDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/dao/ParentescoDAOImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/models/Contacto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/models/Parentesco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/java/com/sweetmemories/sweet/models/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/contacto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/editar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/imagen/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/inicio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/agregarContacto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/contacto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/editar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/main/resources/static/js/parentesco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/src/test/java/com/sweetmemories/sweet/SweetApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sweet/sweet.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -20,7 +68,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="29wOYW11OI5zOMyR8Nk5XXQAEQw" />
+  <component name="ProjectId" id="29hst6bJJoeHlwTRjYQ2A2RWpse" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,22 +78,42 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/DIANA/Desktop/sweet/sweet",
+    "last_opened_file_path": "C:/Users/DIANA/Desktop/En casa/sweet",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DIANA\Desktop\sweet\sweet\src\main\resources\static\imagen" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6239d4b5-1ce1-4c25-87e3-caab75f7271a" name="Changes" comment="" />
-      <created>1654020731140</created>
+      <changelist id="00475a21-2cb4-4e11-b465-151d06dbf0a5" name="Changes" comment="" />
+      <created>1653576904598</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1654020731140</updated>
+      <updated>1653576904598</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
